@@ -1,0 +1,16 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [{
+        "id": 1,
+        "url": "http://127.0.0.1:8000/api/match/1/",
+        "name": "Iris Energy",
+        "startTime": "2020-06-15T18:09:57Z"
+    }, {
+        "id": 2,
+        "url": "http://127.0.0.1:8000/api/match/2/",
+        "name": "hell",
+        "startTime": "2020-06-15T18:11:33Z"
+    }]
+}
